@@ -1,1 +1,9 @@
-# TugasKelompok_C10
+Nama dan NPM:
+Cindy Olivia Chai 2506615753
+Muhammad Adib Islami 2506657030
+Adyra Rachellyn Arkossand 2506620620
+BARON RASHAD PUTRAJANI 2506623351
+RIZKY DZAKY HAMONANGAN MANIHURUK 2506657301
+
+Deskripsi Aplikasi:
+
